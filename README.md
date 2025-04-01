@@ -59,8 +59,8 @@ Seçiminiz:
 ```plaintext
 sinema-bilet-sistemi/
 ├── Main.java
-├── README.md
-└── LICENSE
+├──Main.class
+
 ```
 
 ## 📧 İletişim
