@@ -95,4 +95,12 @@ cmd
 Copy
 chcp 1254
 java -Dfile.encoding=CP1254 Main
-Listeleme hataları: Veri girmeden önce listelemeyi denemeyin
+Listeleme hataları: Veri girmeden önce listelemeyi denemeyin 
+
+📜 Lisans
+Bu proje MIT lisansı altında lisanslanmıştır - detaylar için LICENSE dosyasına bakınız.
+
+📧 İletişim
+semih aker - Akersemih07@gmail.com
+-----------------------------------
+BIP1026 dersi kapsamında geliştirilmiştir | Teslim tarihi: 06.04.2025
