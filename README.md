@@ -28,7 +28,7 @@ Projeyi klonlayın:
 
 bash
 Copy
-git clone https://github.com/kullaniciadiniz/sinema-bilet-sistemi.git
+git clone https://github.com/kizilsamuray/sinema-bilet-sistemi.git
 Proje dizinine gidin:
 
 bash
