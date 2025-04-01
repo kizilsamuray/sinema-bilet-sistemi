@@ -83,11 +83,13 @@ Bilet numarası otomatik oluşturulur
 
 📂 Proje Yapısı
 Copy
-sinema-bilet-sistemi/
+sinema-bilet-sistemi
+/
 ├── src/
 │   └── Main.java          # Ana uygulama sınıfı
 ├── README.md              # Bu dosya
 └── LICENSE                # Lisans dosyası
+
 🐛 Bilinen Sorunlar ve Çözümler
 Türkçe karakter sorunu:
 
